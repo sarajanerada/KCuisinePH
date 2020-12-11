@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/KCuisinePH/static/css/main.9c119bfd.chunk.css",
-    "main.js": "/KCuisinePH/static/js/main.cb995a7a.chunk.js",
-    "main.js.map": "/KCuisinePH/static/js/main.cb995a7a.chunk.js.map",
+    "main.js": "/KCuisinePH/static/js/main.eb3d780f.chunk.js",
+    "main.js.map": "/KCuisinePH/static/js/main.eb3d780f.chunk.js.map",
     "runtime-main.js": "/KCuisinePH/static/js/runtime-main.cf972e46.js",
     "runtime-main.js.map": "/KCuisinePH/static/js/runtime-main.cf972e46.js.map",
     "static/css/2.ea11fe1c.chunk.css": "/KCuisinePH/static/css/2.ea11fe1c.chunk.css",
-    "static/js/2.36baacca.chunk.js": "/KCuisinePH/static/js/2.36baacca.chunk.js",
-    "static/js/2.36baacca.chunk.js.map": "/KCuisinePH/static/js/2.36baacca.chunk.js.map",
+    "static/js/2.4d2a4247.chunk.js": "/KCuisinePH/static/js/2.4d2a4247.chunk.js",
+    "static/js/2.4d2a4247.chunk.js.map": "/KCuisinePH/static/js/2.4d2a4247.chunk.js.map",
     "index.html": "/KCuisinePH/index.html",
     "static/css/2.ea11fe1c.chunk.css.map": "/KCuisinePH/static/css/2.ea11fe1c.chunk.css.map",
     "static/css/main.9c119bfd.chunk.css.map": "/KCuisinePH/static/css/main.9c119bfd.chunk.css.map",
-    "static/js/2.36baacca.chunk.js.LICENSE.txt": "/KCuisinePH/static/js/2.36baacca.chunk.js.LICENSE.txt",
+    "static/js/2.4d2a4247.chunk.js.LICENSE.txt": "/KCuisinePH/static/js/2.4d2a4247.chunk.js.LICENSE.txt",
     "static/media/BIBIMBAP3.d36f7e7d.png": "/KCuisinePH/static/media/BIBIMBAP3.d36f7e7d.png",
     "static/media/Chicken1.c23dca1b.png": "/KCuisinePH/static/media/Chicken1.c23dca1b.png",
     "static/media/GIMBAP.96e26ee5.png": "/KCuisinePH/static/media/GIMBAP.96e26ee5.png",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf972e46.js",
     "static/css/2.ea11fe1c.chunk.css",
-    "static/js/2.36baacca.chunk.js",
+    "static/js/2.4d2a4247.chunk.js",
     "static/css/main.9c119bfd.chunk.css",
-    "static/js/main.cb995a7a.chunk.js"
+    "static/js/main.eb3d780f.chunk.js"
   ]
 }
