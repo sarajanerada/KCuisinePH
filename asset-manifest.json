@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KCuisinePH/static/css/main.726a2c1d.chunk.css",
-    "main.js": "/KCuisinePH/static/js/main.81dd2752.chunk.js",
-    "main.js.map": "/KCuisinePH/static/js/main.81dd2752.chunk.js.map",
+    "main.js": "/KCuisinePH/static/js/main.a115fd66.chunk.js",
+    "main.js.map": "/KCuisinePH/static/js/main.a115fd66.chunk.js.map",
     "runtime-main.js": "/KCuisinePH/static/js/runtime-main.cf972e46.js",
     "runtime-main.js.map": "/KCuisinePH/static/js/runtime-main.cf972e46.js.map",
     "static/css/2.ea11fe1c.chunk.css": "/KCuisinePH/static/css/2.ea11fe1c.chunk.css",
@@ -12,29 +12,35 @@
     "static/css/2.ea11fe1c.chunk.css.map": "/KCuisinePH/static/css/2.ea11fe1c.chunk.css.map",
     "static/css/main.726a2c1d.chunk.css.map": "/KCuisinePH/static/css/main.726a2c1d.chunk.css.map",
     "static/js/2.5ffa772a.chunk.js.LICENSE.txt": "/KCuisinePH/static/js/2.5ffa772a.chunk.js.LICENSE.txt",
-    "static/media/BIBIMBAP3.d36f7e7d.png": "/KCuisinePH/static/media/BIBIMBAP3.d36f7e7d.png",
-    "static/media/Chicken1.c23dca1b.png": "/KCuisinePH/static/media/Chicken1.c23dca1b.png",
-    "static/media/GIMBAP.96e26ee5.png": "/KCuisinePH/static/media/GIMBAP.96e26ee5.png",
-    "static/media/JAPCHAE.2e8a27b7.png": "/KCuisinePH/static/media/JAPCHAE.2e8a27b7.png",
-    "static/media/SUSHI.6236f97d.png": "/KCuisinePH/static/media/SUSHI.6236f97d.png",
-    "static/media/TTEOKBOKKI.b35e901b.png": "/KCuisinePH/static/media/TTEOKBOKKI.b35e901b.png",
+    "static/media/JAPCHAE2.1f0acbd5.png": "/KCuisinePH/static/media/JAPCHAE2.1f0acbd5.png",
     "static/media/Testimonial1.92f95348.jpeg": "/KCuisinePH/static/media/Testimonial1.92f95348.jpeg",
     "static/media/Testimonial2.1d678f7b.jpeg": "/KCuisinePH/static/media/Testimonial2.1d678f7b.jpeg",
     "static/media/Testimonial3.c4ab5347.jpeg": "/KCuisinePH/static/media/Testimonial3.c4ab5347.jpeg",
-    "static/media/feedback3.a1b07542.svg": "/KCuisinePH/static/media/feedback3.a1b07542.svg",
+    "static/media/baked-sushi-party.26d387d4.png": "/KCuisinePH/static/media/baked-sushi-party.26d387d4.png",
+    "static/media/bibimbap.91457f90.png": "/KCuisinePH/static/media/bibimbap.91457f90.png",
+    "static/media/chicken.20708cb4.png": "/KCuisinePH/static/media/chicken.20708cb4.png",
+    "static/media/delivery.a4fd7458.svg": "/KCuisinePH/static/media/delivery.a4fd7458.svg",
+    "static/media/garlic-bread.e7ff0e21.png": "/KCuisinePH/static/media/garlic-bread.e7ff0e21.png",
+    "static/media/garlic-bread2.781b3e9d.png": "/KCuisinePH/static/media/garlic-bread2.781b3e9d.png",
+    "static/media/gimbap.126c3243.png": "/KCuisinePH/static/media/gimbap.126c3243.png",
     "static/media/header5.894aaca6.png": "/KCuisinePH/static/media/header5.894aaca6.png",
+    "static/media/how_to_order.b1cdffe7.svg": "/KCuisinePH/static/media/how_to_order.b1cdffe7.svg",
     "static/media/image1.692f87ec.jpeg": "/KCuisinePH/static/media/image1.692f87ec.jpeg",
     "static/media/image2.2e49aa42.jpeg": "/KCuisinePH/static/media/image2.2e49aa42.jpeg",
     "static/media/logo.d7aefc48.svg": "/KCuisinePH/static/media/logo.d7aefc48.svg",
+    "static/media/party_size_bibimbap.6fc35708.png": "/KCuisinePH/static/media/party_size_bibimbap.6fc35708.png",
+    "static/media/party_size_japchae.03600ce4.png": "/KCuisinePH/static/media/party_size_japchae.03600ce4.png",
     "static/media/promo.25d8abf7.png": "/KCuisinePH/static/media/promo.25d8abf7.png",
-    "static/media/svg-4.90a6716d.svg": "/KCuisinePH/static/media/svg-4.90a6716d.svg",
-    "static/media/svg-6.f36c42f4.svg": "/KCuisinePH/static/media/svg-6.f36c42f4.svg"
+    "static/media/reviews.e8a2cb03.svg": "/KCuisinePH/static/media/reviews.e8a2cb03.svg",
+    "static/media/spicy-chicken.3cc2085b.png": "/KCuisinePH/static/media/spicy-chicken.3cc2085b.png",
+    "static/media/square_sushi.2700dac7.png": "/KCuisinePH/static/media/square_sushi.2700dac7.png",
+    "static/media/tteokbokki3.37b94ec8.png": "/KCuisinePH/static/media/tteokbokki3.37b94ec8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cf972e46.js",
     "static/css/2.ea11fe1c.chunk.css",
     "static/js/2.5ffa772a.chunk.js",
     "static/css/main.726a2c1d.chunk.css",
-    "static/js/main.81dd2752.chunk.js"
+    "static/js/main.a115fd66.chunk.js"
   ]
 }
